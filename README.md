@@ -7,3 +7,9 @@ Comandos básicos GIT
  - git push -u origin main (publica no git hub) 
 
  aula de git 
+
+ - sequencia de comandos 
+
+ - git status (verifica como estão os arquivos)
+ - git add . (prepara o arquivo para ser publicado/guardado)
+ - git commit -m "mensagem" publica os arquivos que foram preparados 
