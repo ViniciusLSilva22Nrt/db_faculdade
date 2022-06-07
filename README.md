@@ -12,4 +12,4 @@ Comandos básicos GIT
 
  - git status (verifica como estão os arquivos)
  - git add . (prepara o arquivo para ser publicado/guardado)
- - git commit -m "mensagem" publica os arquivos que foram preparados 
+ - git commit -m "mensagem" publica os arquivos     que foram preparados 
