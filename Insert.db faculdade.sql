@@ -250,3 +250,7 @@ values
     ('15', '105', '10.0', '400'),
     ('16', '106', '10.0', '450'),
     ('17', '107', '10.0', '582');
+
+    update aluno
+set fk_cod_curso = null, fk_cod_turma = null
+where ra in (442, 445, 456);
